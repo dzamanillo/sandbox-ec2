@@ -1,16 +1,22 @@
 {
-	"name": "sandbox",
-	"version": "1.0.0",
-	"description": "",
-	"main": "server.js",
-	"scripts": {
-		"start": "node server.js"
-	},
-	"author": "",
-	"license": "ISC",
-	"dependencies": {
-		"axios": "^0.26.1",
-		"express": "^4.17.3",
-		"node-fetch": "^3.2.3"
-	}
+  "name": "sandbox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dzamanillo/sandbox-ec2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dzamanillo/sandbox-ec2/issues"
+  },
+  "homepage": "https://github.com/dzamanillo/sandbox-ec2#readme",
+  "dependencies": {
+    "axios": "^0.26.1"
+  }
 }
